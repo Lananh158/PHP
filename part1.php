@@ -6,10 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    
+
 <?php
 echo "hello";
-echo '<h1 style="color: pink"> Xin chào Lan Anh </h1>'
+echo '<h1 style="color: pink">Xin chào Lan Anh</h1>'
 ?>
 
 </body>
