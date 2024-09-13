@@ -8,8 +8,12 @@
 <body>
 
 <?php
-echo "hello";
-echo '<h1 style="color: pink">Xin chào Lan Anh</h1>'
+
+for ($i = 0; $i < 10; $i++){
+    if ($i % 2 == 0 ){
+        echo $i . "";
+    }
+}
 ?>
 
 </body>
